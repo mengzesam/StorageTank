@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/copy.png</file>
+        <file>images/openfile.png</file>
+        <file>images/paste.png</file>
+        <file>images/print.png</file>
+        <file>images/redo.png</file>
+        <file>images/savefile.png</file>
+        <file>images/screenshot.png</file>
+        <file>images/setcolor.png</file>
+        <file>images/setfont.png</file>
+        <file>images/undo.png</file>
+        <file>images/newfile.png</file>
+        <file>images/appicon.png</file>
+    </qresource>
+    <qresource prefix="/:"/>
+</RCC>
